@@ -5,6 +5,4 @@ Teste 4 do GIT
 Teste 5 do GIT
 Teste 6 do GIT
 Teste 7 do GIT
-Teste 8 do GIT
-Teste 9 do GIT
-Teste 10 do GIT
+
